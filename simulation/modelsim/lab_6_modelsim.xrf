@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/intelFPGA/18.1/lab6/module_gen.sv
+source_file = 1, C:/intelFPGA/18.1/lab6/testbench.sv
+source_file = 1, C:/intelFPGA/18.1/lab6/db/lab_6.cbx.xml
+design_name = module_gen
+instance = comp, \U~output , U~output, module_gen, 1
+instance = comp, \K_out~output , K_out~output, module_gen, 1
+instance = comp, \Y~input , Y~input, module_gen, 1
+instance = comp, \En~input , En~input, module_gen, 1
+instance = comp, \X~input , X~input, module_gen, 1
+instance = comp, \K_in~input , K_in~input, module_gen, 1
+instance = comp, \Add1~0 , Add1~0, module_gen, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, module_gen, 1

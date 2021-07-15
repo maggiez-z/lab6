@@ -1,0 +1,9 @@
+|module_gen
+En => Add0.IN1
+X => Add0.IN2
+Y => Add1.IN4
+K_in => Add2.IN4
+U <= <GND>
+K_out <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+
+
